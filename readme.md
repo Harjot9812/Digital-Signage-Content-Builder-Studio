@@ -43,8 +43,7 @@ This repository contains a complete digital signage solution comprising a **Reac
 
 1. **Clone the Repository:**
    ```bash
-   gh repo clone Harjot9812/Digital-Signage-Content-Builder-Studio
-   cd your-repo/dashboard
+   gh repo clone Harjot9812/Signage-Dashboard
    ```
 
 2. **Install Dependencies:**
