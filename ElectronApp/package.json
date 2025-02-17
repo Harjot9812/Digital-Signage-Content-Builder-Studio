@@ -1,0 +1,17 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harjot",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^34.2.0",
+    "fabric": "^6.6.0",
+    "ws": "^8.18.0"
+  }
+}
